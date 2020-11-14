@@ -1,24 +1,21 @@
 # weather
 
-## Project setup
-```
-npm install
-```
+## Description
+> This is simple a Weather application.
 
+> In this application you can add city name and it show current weather of that palce.
+
+> This is Web and Mobile friendly.
+
+## Languages Used
+  - Vuejs (Version 2).
+  - CSS
+  - HTML
+  
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Explore more about vuejs
+[See Documentation](https://v3.vuejs.org/guide/introduction.html).
