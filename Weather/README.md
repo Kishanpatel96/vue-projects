@@ -1,4 +1,4 @@
-# weather
+# Weather
 
 ## Description
 > This is simple a Weather application.
