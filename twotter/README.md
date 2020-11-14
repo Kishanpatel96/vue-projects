@@ -1,4 +1,4 @@
-# twotter
+# Twotter
 
 ## Description
 > This is simple a Twotter Application which is clone of twitter.
